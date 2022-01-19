@@ -56,9 +56,9 @@ select, option{
 table{
     width: 55%;
     font-size: 20px;
-    color: rgb(214, 223, 226);
+    background-color: bisque;
     box-sizing: border-box;
-    border: 4px solid black;
+    border: 4px solid rgb(238, 226, 226);
 }
 table td{
     width: 7.14%;
@@ -67,5 +67,6 @@ table td{
 }
 table tr{
     box-sizing: border-box;
-    border: 4px solid black;
+    border: 4px solid rgb(236, 230, 230);
 }
+
